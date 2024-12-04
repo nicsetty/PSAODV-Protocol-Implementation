@@ -1,0 +1,5 @@
+<additional>
+    <rsu id="eav1" x="4429.02" y="2834.03" range="300"/> <!-- RSU near the internal edge -->
+    <rsu id="eav2" x="4343.50" y="2501.99" range="300"/>
+    <rsu id="eav3" x="4433.13" y="2636.79" range="300"/>
+</additional>

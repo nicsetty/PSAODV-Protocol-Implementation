@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-11-18 20:42:26.274135 by randomTrips.py v1_21_0+0000-d7b3b481c43
+<configuration>
+    <net-file value="map.net.xml"/>
+    <output-trip-file value="traffic_50.rou.xml"/>
+    <end value="500.0"/>
+    <period value="10.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="606151460" to="-1296361352#3"/>
+    <trip id="1" depart="10.00" from="-846427920#1" to="-750542241#13"/>
+    <trip id="2" depart="20.00" from="750542241#12" to="606151465#3"/>
+    <trip id="3" depart="30.00" from="847165795" to="-606151453#4"/>
+    <trip id="4" depart="40.00" from="-847177175" to="-1296361352#5"/>
+    <trip id="5" depart="50.00" from="-687923992#1" to="1296361352#2"/>
+    <trip id="6" depart="60.00" from="-1296361352#4" to="-606151466#0"/>
+    <trip id="7" depart="70.00" from="606151463#0" to="606151452#2"/>
+    <trip id="8" depart="80.00" from="-687923992#2" to="606151455#1"/>
+    <trip id="9" depart="90.00" from="846430568#3" to="-1287953021#0"/>
+    <trip id="10" depart="100.00" from="846430568#1" to="687923992#0"/>
+    <trip id="11" depart="110.00" from="-847142240#3" to="-606151464#2"/>
+    <trip id="12" depart="120.00" from="847183638#1" to="-847154158"/>
+    <trip id="13" depart="130.00" from="-606151454#0" to="-606151454#2"/>
+    <trip id="14" depart="140.00" from="847154155" to="606151457#3"/>
+    <trip id="15" depart="150.00" from="846430568#2" to="750542241#2"/>
+    <trip id="16" depart="160.00" from="1296361352#1" to="850352632#1"/>
+    <trip id="17" depart="170.00" from="-847161320#1" to="606151452#5"/>
+    <trip id="18" depart="180.00" from="847137451#1" to="606151462#0"/>
+    <trip id="19" depart="190.00" from="847156294" to="606151454#0"/>
+    <trip id="20" depart="200.00" from="606151465#5" to="-251145644#3"/>
+    <trip id="21" depart="210.00" from="-750542241#1" to="-846430568#1"/>
+    <trip id="22" depart="220.00" from="-606151453#2" to="-750542241#3"/>
+    <trip id="23" depart="230.00" from="-606151455#0" to="-846427922#2"/>
+    <trip id="24" depart="240.00" from="606151457#4" to="-847161321"/>
+    <trip id="25" depart="250.00" from="-847161318#1" to="-750542241#0"/>
+    <trip id="26" depart="260.00" from="-846427913#0" to="847182892#2"/>
+    <trip id="27" depart="270.00" from="606151462#0" to="606151458"/>
+    <trip id="28" depart="280.00" from="-606151464#4" to="750542241#2"/>
+    <trip id="29" depart="290.00" from="-606151464#1" to="-847167762#0"/>
+    <trip id="30" depart="300.00" from="850963551#0" to="606151463#6"/>
+    <trip id="31" depart="310.00" from="251145644#1" to="606151465#6"/>
+    <trip id="32" depart="320.00" from="847142240#2" to="846427923#0"/>
+    <trip id="33" depart="330.00" from="-750542241#10" to="-1296361352#5"/>
+    <trip id="34" depart="340.00" from="-847137450#0" to="-846427921#1"/>
+    <trip id="35" depart="350.00" from="-606151466#0" to="847183636#0"/>
+    <trip id="36" depart="360.00" from="847161319" to="-847137452"/>
+    <trip id="37" depart="370.00" from="606151463#2" to="-847170655#0"/>
+    <trip id="38" depart="380.00" from="847170655#1" to="-850352632#1"/>
+    <trip id="39" depart="390.00" from="-750542241#9" to="-750542241#8"/>
+    <trip id="40" depart="400.00" from="251145644#3" to="-846427920#1"/>
+    <trip id="41" depart="410.00" from="606151452#5" to="847170655#0"/>
+    <trip id="42" depart="420.00" from="-847167762#1" to="-750542241#11"/>
+    <trip id="43" depart="430.00" from="850963552#0" to="1296361352#3"/>
+    <trip id="44" depart="440.00" from="-606151454#0" to="-269696395#0"/>
+    <trip id="45" depart="450.00" from="-606151457#0" to="606151463#1"/>
+    <trip id="46" depart="460.00" from="846427922#2" to="-847182892#0"/>
+    <trip id="47" depart="470.00" from="-606151452#3" to="-847167762#1"/>
+    <trip id="48" depart="480.00" from="850963551#2" to="251145644#3"/>
+    <trip id="49" depart="490.00" from="850352632#0" to="847161320#0"/>
+</routes>
