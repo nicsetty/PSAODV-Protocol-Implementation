@@ -87,8 +87,8 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+## References
+This project is based on a research paper titled [Secure AODV Routing Strategies in Smart Cities for Vehicular Communication](https://www.iieta.org/journals/jesa/paper/10.18280/jesa.570325), with a few modifications: instead of using OMNET++, we implemented the simulation using Python.
 
 ---
 
